@@ -1,0 +1,713 @@
+.container{
+    width: 1400px;
+    height:5327px;
+    background:rgb(239, 230, 228);
+    margin-left: auto;
+    margin-right: auto;
+}
+.container_2{
+  width:1400px;
+  height: 715px;
+  flex-shrink: 0;
+  
+  background: url(../image/logo_2.jpg);
+  
+}
+.ul{
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding-top: 15px;
+}
+.li{
+  margin-left: auto;
+  margin-right: auto;
+  margin-right: 50px;
+}
+.a{
+  color: #533738;
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration: none;
+}
+.h1{
+  color: #533738;
+font-family: Montserrat;
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 62px;
+margin: 90px;
+margin-bottom: 15px;
+}
+.p{
+  color: #533738;
+
+/* Основной текст */
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+margin-left: 90px;
+}
+.button{
+  background-color: #CC8B86;
+  border: 1px;
+  padding: 20px;
+  padding-right: 40px;
+  padding-left: 60px;
+  color: #533738;
+  font-size: 20px;
+  margin-left:87px;
+ 
+}
+/* 2-ой блок сайта*/
+.container_3{
+  width: 1400px;
+  height: 849px;
+  background: rgb(239, 230, 228);
+}
+.h1_2{
+  /* О нас */
+  position: absolute;
+width: 136px;
+/*height: 50px;*/
+left: 700px;
+/*right: 632px;*/
+top: 780px;
+bottom: 19px;
+
+}
+.img_1{
+position: absolute;
+width: 444.54px;
+height: 465px;
+top:890px;
+left:200.76px;
+}
+.p_1{
+position:absolute;
+width: 528px;
+height: 330px;
+top:900px;
+left: 800px;
+/*Шрифт*/
+color: rgb(83, 55, 56);
+font-family: Montserrat;
+font-size: 22px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+}
+.container_3_new{
+  background: #8D7370;
+  width: 1400px;
+  height: 220px;
+  bottom: -700px;
+  position: absolute;
+}
+.container_4{
+  
+  position: absolute;
+  width: 1200px;
+  height:1099px;
+  left:100px;
+  right:100px;
+  top:1649px;
+  bottom:2579px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.h1_container_4{
+  position: absolute;
+  width:332px;
+  height:50px;
+  left: 0px;
+right: 768px;
+/* /Заголовок2 */
+
+font-family: Montserrat;
+font-size: 40px;
+font-weight: 400;
+line-height: 50px;
+
+text-align: left;
+text-transform: uppercase;
+}
+.img_container_4{
+/* Rectangle 131 */
+
+position: absolute;
+width: 488px;
+height: 451px;
+left: -50px;
+top:110px;
+padding-left:50px;
+}
+.img_2_container_4{
+  /* Rectangle 134 */
+position: absolute;
+width: 692px;
+height: 451px;
+left: 508px;
+top:110px;
+right: 150px;
+}
+.img_3_container_4{
+  /* Rectangle 132 */
+position: absolute;
+width: 692px;
+height: 451px;
+left: 0px;
+right: 408px;
+bottom: 67px;
+}
+.img_4_container_4{
+  /* Mask Group */
+position: absolute;
+width: 488px;
+height: 451px;
+left: 712px;
+bottom:67px;
+}
+.h2_container_4{
+  /* Смотреть ещё */
+position: absolute;
+width: 224px;
+height: 37px;
+left: 500px;
+bottom:25px;
+color: rgb(83, 55, 56);
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 500;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: left;
+}
+.container_5{
+background: rgb(226, 196, 186);
+position: absolute;
+width: 1399px;
+height: 998px;
+left: 1px;
+right: -1px;
+top: 2858px;
+bottom: -2858px;
+margin-left: auto;
+margin-right: auto;
+}
+.h1_container_5{
+  /* Команда */
+position: absolute;
+width: 224px;
+height: 50px;
+right: 590px;
+/* /Заголовок2 */
+color: rgb(83, 55, 56);
+font-family: Montserrat;
+font-size: 40px;
+font-weight: 400;
+line-height: 50px;
+text-align: left;
+text-transform: uppercase;
+text-align: center;
+}
+
+
+.girl_1{
+  /* Mask Group */
+position: absolute;
+width: 320px;
+height: 253px;
+left: 120px;
+top:115px;
+}
+.girl_2{
+  /* image 59 */
+position: absolute;
+width: 392px;
+height: 255px;
+left: 490px;
+top:115px;
+}
+.girl_3{
+  /* Mask Group */
+position: absolute;
+width: 320px;
+height: 253px;
+left: 940px;
+top:120px;
+}
+.p_girl_1{
+position: absolute;
+width: 320px;
+height: 180px;
+left: 120px;
+top: 365px;
+/* Основной текст */
+color: rgb(83, 55, 56);
+font-family: Montserrat;
+font-size: 17px;
+font-weight: 400;
+line-height: 25px;
+text-align: left;
+}
+.p_girl_2{
+position: absolute;
+width: 320px;
+height: 150px;
+left: 490px;
+top:365px;
+/* Основной текст */
+color: rgb(83, 55, 56);
+font-family: Montserrat;
+font-size: 17px;
+font-weight: 400;
+line-height: 25px;
+text-align: left;
+}
+.p_girl_3{
+position: absolute;
+width: 320px;
+height: 150px;
+left: 940px;
+top:365px;
+/* Основной текст */
+color: rgb(83, 55, 56);
+font-family: Montserrat;
+font-size: 17px;
+font-weight: 400;
+line-height: 25px;
+text-align: left;
+}
+.container_6{
+  /* Как мы работаем */
+position: absolute;
+width: 1200px;
+height: 355px;
+left: 85px;
+bottom:50px;
+}
+.h1_container_6{
+  /* Как мы работаем */
+position: absolute;
+width: 420px;
+height: 50px;
+left: 425px;
+/* /Заголовок2 */
+color: rgb(83, 55, 56);
+font-family: Montserrat;
+font-size: 40px;
+font-weight: 400;
+line-height: 35px;
+}
+.circle{
+position: absolute;
+width: 70px;
+height: 70px;
+left: 110px;
+right: 923px;
+top: 100px;
+bottom: 5px;
+  background: rgb(141, 115, 112);
+  clip-path: circle(50%);/*сгругляет фигуре углы,вот так у меня получился круг*/
+
+}
+.h1_circle{
+  color: rgb(255, 255, 255);
+font-family: Montserrat;
+
+font-size: 35px;
+font-weight: 510px;
+line-height: 30px;
+text-align: center;
+}
+.circle_2{
+  /* Ellipse 12 */
+position: absolute;
+width: 70px;
+height: 70px;
+left: 400px;
+right: 1000px;
+top: 100px;
+bottom: 5px;
+background:  rgb(141, 115, 112);
+clip-path: circle(50%);
+}
+.circle_3{
+  /* Ellipse 13 */
+position: absolute;
+width: 70px;
+height: 70px;
+left: 700px;
+right: 1100px;
+top: 100px;
+bottom: 5px;
+background:  rgb(141, 115, 112);
+clip-path: circle(50%);
+}
+.circle_4{
+  background:  rgb(141, 115, 112);
+clip-path: circle(50%);
+position: absolute;
+width: 70px;
+height: 70px;
+left: 1000px;
+right: 1200px;
+top: 100px;
+bottom: 5px;
+}
+.p_container_6{
+position: absolute;
+width: 285px;
+height: 120px;
+left: 1px;
+right: 815px;
+top: 160px;
+bottom: 100px;
+/* Основной текст */
+color: rgb(83, 55, 56);
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+}
+.p_1_container_6{
+  position: absolute;
+width: 285px;
+height: 90px;
+left: 280px;
+right: 510px;
+top: 162px;
+
+/* Основной текст */
+color: rgb(83, 55, 56);
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+}
+.p_2_container_6{
+position: absolute;
+width: 285px;
+height: 90px;
+left: 600px;
+right: 205px;
+top: 162px;
+
+/* Основной текст */
+color: rgb(83, 55, 56);
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+}
+.p_3_container_6{
+  position: absolute;
+width: 285px;
+height: 120px;
+left: 910px;
+right: 100px;
+top: 162px;
+
+/* Основной текст */
+color: rgb(83, 55, 56);
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+}
+.container_7{
+  /* Отзывы */
+position: absolute;
+width: 1036px;
+height: 658px;
+left: 182px;
+right: 182px;
+top: 3921px;
+bottom: 793px;
+margin-left: auto;
+margin-right: auto;
+  
+}
+.container_8{
+  /* Заявка */
+position: absolute;
+width: 1400px;
+height: 624px;
+left: 1px;
+right: -1px;
+top: 4644px;
+bottom: 104px;
+margin-left: auto;
+margin-right: auto;
+background: rgb(141, 115, 112);
+}
+.karta_container_8{
+position: absolute;
+width: 590px;
+height: 624px;
+left: 710px;
+right: 100px;
+
+}
+.h1_container_8{
+  /* Оставить заявку */
+position: absolute;
+width: 474px;
+height: 50px;
+left: 182px;
+right: 744px;
+top:50px;
+
+/* /Заголовок2 */
+color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 40px;
+font-weight: 400;
+line-height: 50px;
+text-align: left;
+text-transform: uppercase;
+}
+.p_container_8{
+position: absolute;
+width: 507px;
+height: 60px;
+left: 183px;
+right: 710px;
+opacity: 0.6;
+top: 124px;
+/* Основной текст */
+color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+}
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  gap:5px;
+  margin-top: 200px;
+  margin-left:200px;
+  
+}
+ 
+label {
+  margin-top: 10px;
+}
+ 
+input, textarea {
+  padding: 5px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  resize: none;
+}
+ 
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: #CC8B86;
+  border: none;
+  color: black;
+  cursor: pointer;
+}
+.container_9{
+  /* футер */
+position: absolute;
+width: 1345px;
+height: 30px;
+left: 100px;
+right: 100px;
+top: 5285px;
+bottom: 37px;
+}
+.ul_container_9{
+  display: flex;
+  list-style: none;
+  margin: -10px;
+  padding-top: 15px;
+  justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.h1_container_7{
+  /* Отзывы */
+position: absolute;
+width: 190px;
+height: 50px;
+left: 440px;
+right: 230px;
+/* /Заголовок2 */
+color: rgb(83, 55, 56);
+font-family: Montserrat;
+font-size: 40px;
+font-weight: 400;
+line-height: 50px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: uppercase;
+}
+.img_1_container_7{
+position: absolute;
+width: 407px;
+height: 272px;
+left: 505px;
+right: -81px;
+top:90px;
+}
+.img_2_container_7{
+  /* image 62 */
+position: absolute;
+width: 408px;
+height: 279px;
+left: 505px;
+right: -710px;
+top:379px;
+}
+.p_container_7{
+  position: absolute;
+width: 407px;
+height: 335px;
+left: 120px;
+right: 346px;
+top:200px;
+
+  /* Основной текст */
+color: rgb(83, 55, 56);
+font-family: Montserrat;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+}
+/*--------------------- ПОПЫТКА ВСТАВИТЬ СЛАЙДЕР К КОНТЕЙНЕРУ 7 ----------------------------*/
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
